@@ -1,3 +1,4 @@
+// This program is just an example one under VCS.  
 #include <iostream>
 
 int main()
