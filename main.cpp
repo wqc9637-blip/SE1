@@ -1,4 +1,7 @@
-// This program is just an example one under VCS.  
+//
+// This program is just an example one under VCS.
+// Author: wqc, 2026
+//
 #include <iostream>
 
 int main()
